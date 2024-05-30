@@ -1,6 +1,6 @@
 ﻿namespace Fina.Core;
 
-public class Class1
+public class Response
 {
 
 }
