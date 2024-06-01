@@ -1042,3 +1042,4 @@ C:\Users\italo\Desktop\Cursos\Language C#\Jornada Fullstack 2024\Fina.Web\obj\De
 C:\Users\italo\Desktop\Cursos\Language C#\Jornada Fullstack 2024\Fina.Web\obj\Debug\net8.0\refint\Fina.Web.dll
 C:\Users\italo\Desktop\Cursos\Language C#\Jornada Fullstack 2024\Fina.Web\obj\Debug\net8.0\Fina.Web.pdb
 C:\Users\italo\Desktop\Cursos\Language C#\Jornada Fullstack 2024\Fina.Web\obj\Debug\net8.0\ref\Fina.Web.dll
+C:\Users\italo\Desktop\Cursos\Language C#\Jornada Fullstack 2024\Fina.Web\obj\Debug\net8.0\Fina.Web.sourcelink.json

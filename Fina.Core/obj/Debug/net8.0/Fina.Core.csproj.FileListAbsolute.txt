@@ -9,3 +9,4 @@ C:\Users\italo\Desktop\Cursos\Language C#\Jornada Fullstack 2024\Fina.Core\obj\D
 C:\Users\italo\Desktop\Cursos\Language C#\Jornada Fullstack 2024\Fina.Core\obj\Debug\net8.0\refint\Fina.Core.dll
 C:\Users\italo\Desktop\Cursos\Language C#\Jornada Fullstack 2024\Fina.Core\obj\Debug\net8.0\Fina.Core.pdb
 C:\Users\italo\Desktop\Cursos\Language C#\Jornada Fullstack 2024\Fina.Core\obj\Debug\net8.0\ref\Fina.Core.dll
+C:\Users\italo\Desktop\Cursos\Language C#\Jornada Fullstack 2024\Fina.Core\obj\Debug\net8.0\Fina.Core.sourcelink.json

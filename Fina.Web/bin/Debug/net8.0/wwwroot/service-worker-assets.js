@@ -37,12 +37,12 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-3mv6PLk+Ez9bpa3hAqRzedbz0BV44xxfFNC2TSBV8Yk=",
-      "url": "Fina.Web.styles.css"
-    },
-    {
       "hash": "sha256-gvHfnndfEu1tRf0rFb5988rWq7ITIotOaE8+AMbKYbc=",
       "url": "_framework\/blazor.webassembly.js"
+    },
+    {
+      "hash": "sha256-3mv6PLk+Ez9bpa3hAqRzedbz0BV44xxfFNC2TSBV8Yk=",
+      "url": "Fina.Web.styles.css"
     },
     {
       "hash": "sha256-s9GVXwxk54dQl2rDy\/ceilSgKRA2EsurG8PqOvE9j9A=",
