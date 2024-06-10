@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A+nLdRG3igk=",
+  "dgSpecHash": "25zUMWUgYx0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Web\\Fina.Web.csproj",
+  "projectFilePath": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Web\\Fina.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\italo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.6\\microsoft.aspnetcore.authorization.8.0.6.nupkg.sha512",
     "C:\\Users\\italo\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.6\\microsoft.aspnetcore.components.8.0.6.nupkg.sha512",

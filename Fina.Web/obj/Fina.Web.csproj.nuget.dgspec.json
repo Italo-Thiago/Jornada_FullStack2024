@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Web\\Fina.Web.csproj": {}
+    "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Web\\Fina.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj": {
+    "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj",
+        "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj",
         "projectName": "Fina.Core",
-        "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj",
+        "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj",
         "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\obj\\",
+        "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Web\\Fina.Web.csproj": {
+    "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Web\\Fina.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Web\\Fina.Web.csproj",
+        "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Web\\Fina.Web.csproj",
         "projectName": "Fina.Web",
-        "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Web\\Fina.Web.csproj",
+        "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Web\\Fina.Web.csproj",
         "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Web\\obj\\",
+        "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj": {
-                "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj"
+              "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj": {
+                "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj"
               }
             }
           }

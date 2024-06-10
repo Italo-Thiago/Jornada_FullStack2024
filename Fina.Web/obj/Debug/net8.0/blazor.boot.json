@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Fina.Web",
   "resources": {
-    "hash": "sha256-x0XZ/ELM0r4Gygb1Tzo+ZvarompYWhTjdXjt++Tnxcg=",
+    "hash": "sha256-JYk83LMzhIPgnx9Ep5LKEBKpovxw7fAiiMZq7lCA1JM=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.k1z3ykpilw.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -208,12 +208,12 @@
       "mscorlib.wasm": "sha256-masKveCdoRSahF99doEQk7H3YN2wHLVIE4M/Zu8OoD8=",
       "netstandard.wasm": "sha256-z1EJOmgVhSpTopn7Tek/0P//MKGF1I3NUD/sh4oLnwY=",
       "System.Private.CoreLib.wasm": "sha256-tuIWpR30u0OoEVtv4pXZ47mEpI2AmFBIyYFPnqDZZfw=",
-      "Fina.Core.wasm": "sha256-ZEQRZHjcUn1BLWfc8UScr2nGz5dVDW0NvFKFre9274E=",
-      "Fina.Web.wasm": "sha256-+hHc/zS38t9FZv26jcDAv+rJmS6r0r6x7InhVOaUAuQ="
+      "Fina.Core.wasm": "sha256-qjYcEV/KRQ2/YdMI9cRD4eNlYVZRHj+YNttgD45XoRk=",
+      "Fina.Web.wasm": "sha256-tEdFVqIrVmOtzG7qdcs1eSfnsAeVsiE8pg+b003r6dg="
     },
     "pdb": {
-      "Fina.Core.pdb": "sha256-M1jK+n/jAWI+CO+V6nr752IjsjEV/KFWulVc+9I7ces=",
-      "Fina.Web.pdb": "sha256-2j0u+vOokCcjTrLODfX0E2nPEcPfdYfJM+EZFZKhK3A="
+      "Fina.Core.pdb": "sha256-kRz2F2Sh2EMyoqHRTWKIbJTy+McRlWDP6ObB+zBKuEQ=",
+      "Fina.Web.pdb": "sha256-RR60PoRXSNOJhigCLsmHzOSBFcNeDudnWrIjFgb/JcY="
     }
   },
   "cacheBootResources": true,

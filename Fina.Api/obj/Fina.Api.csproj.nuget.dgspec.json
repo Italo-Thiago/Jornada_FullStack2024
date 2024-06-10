@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Api\\Fina.Api.csproj": {}
+    "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Api\\Fina.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Api\\Fina.Api.csproj": {
+    "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Api\\Fina.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Api\\Fina.Api.csproj",
+        "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Api\\Fina.Api.csproj",
         "projectName": "Fina.Api",
-        "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Api\\Fina.Api.csproj",
+        "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Api\\Fina.Api.csproj",
         "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Api\\obj\\",
+        "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj": {
-                "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj"
+              "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj": {
+                "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj"
               }
             }
           }
@@ -46,6 +46,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -69,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj": {
+    "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj",
+        "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj",
         "projectName": "Fina.Core",
-        "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj",
+        "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\Fina.Core.csproj",
         "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Language C#\\Jornada Fullstack 2024\\Fina.Core\\obj\\",
+        "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Projects\\Jornada Fullstack 2024\\Fina.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
